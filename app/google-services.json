@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962288349481",
+    "project_id": "gpsprovider-5c01c",
+    "storage_bucket": "gpsprovider-5c01c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962288349481:android:6ffe69b03a1a8f56488738",
+        "android_client_info": {
+          "package_name": "com.example.gpsprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962288349481-j8eftvmfpf7qdka8t06o63shfdpt931g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxI5OUyAH9gHjZjkPFanMBQDfjduyHjqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962288349481-j8eftvmfpf7qdka8t06o63shfdpt931g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
